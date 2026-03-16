@@ -1,4 +1,8 @@
 # To-Do-App
+This To-Do application is built using **Django, HTML, CSS, and JavaScript**.  
+![Dashboard](Images/dashboard.png)
+- It allows users to manage tasks by performing **CRUD operations** such as **creating, viewing, updating, and deleting tasks**.  
+- The project demonstrates **basic web development concepts** and **Django backend functionality**.
 
 ## Table of Contents 
 - [Prerequisites](#prerequisites)
@@ -91,6 +95,21 @@ python manage.py test --pattern="tests.py"
 ## View the application
 
 Go to http://127.0.0.1:8000/ to view the application.
+
+### Add Task
+![Add Task](Images/add_task.png)
+
+![Task Added](Images/task_added.png)
+
+### Update Task
+![Update Task](Images/update_task.png)
+
+![Task Updated](Images/task_updated.png)
+
+### Delete Task
+![Delete Task](Images/delete.png)
+
+![Task Deleted](Images/task_deleted.png)
 
 
 
